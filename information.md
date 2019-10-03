@@ -3,12 +3,12 @@
 
 Fill in your personal information, stage the changes, and commit with a meaningful commit message.  Then push the commit to the remote repository.
 
-* Name:
+* Name: Parker Foe
 
-* LSE ID:
+* LSE ID: 201541297
 
-* LSE email address:
+* LSE email address: H.A.Foe@lse.ac.uk
 
-* Programme:
+* Programme: MSc Applied Social Data Science
 
 * (Optional) Personal website:
